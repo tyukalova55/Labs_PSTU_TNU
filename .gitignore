@@ -1,0 +1,10 @@
+.vs/
+*.vsidx
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.sqlite
+*.db
+*.db-shm
+*.db-wal
