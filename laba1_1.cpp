@@ -25,7 +25,9 @@ cout << "Enter m" << endl;
 cin >> m;
 
 cout << "Enter n" << endl;
-cin >> m;
+cin >> n;
 	result = ++n*++m ;
 cout << "Result is" << result << endl;
+
+return 0;
 }
