@@ -18,16 +18,3 @@ int main() {
 	return 0;
 }
 
-int main1(){
-int m,n,result;
-
-cout << "Enter m" << endl;
-cin >> m;
-
-cout << "Enter n" << endl;
-cin >> n;
-	result = ++n*++m ;
-cout << "Result is" << result << endl;
-
-return 0;
-}

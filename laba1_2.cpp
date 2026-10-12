@@ -11,9 +11,11 @@ cin >> m;
 cout << "Enter n" << endl;
 cin >> n;
 	result = ++n*++m ;
+    cout << "Result is  ++n*++m =" << result << endl;
     result =	m++<n;
-result = 	n++>m;
-cout << "Result is  " << result << endl;
+    cout << "Result is m++<n = " << result << endl;
+result = n++>m;
+cout << "Result is  n++>m =2" << result << endl;
 
 return 0;
 }
