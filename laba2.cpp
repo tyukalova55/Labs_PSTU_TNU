@@ -12,3 +12,7 @@ int main() {
 		cout << "n = " << n << "   an = " << an << "   sum = " << sum << endl;
 	}
 
+	cout << "Result:  " << sum << endl;
+
+	return 0;
+}
