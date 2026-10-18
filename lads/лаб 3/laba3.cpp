@@ -37,7 +37,6 @@ int main() {
             i++;
         }
 
-
         double Y = 2.0 * (pow(cos(x), 2.0) - 1.0);
 
         cout << "| " << setw(7) << fixed << setprecision(2) << x
